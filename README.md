@@ -110,6 +110,7 @@ A **snowflake schema** was used for this model. Core fact tables (fact_actuals_e
 
 ## 📁 Project Structure
 
+```
 Global-Business-Insights-360/
 │
 ├── README.md                     # Project overview (this file)
@@ -132,6 +133,7 @@ Global-Business-Insights-360/
 │
 └── insights/
     └── key_findings.md           # Quick-scan summary of standout business insights
+```
 
 ---
 
